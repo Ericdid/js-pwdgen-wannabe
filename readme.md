@@ -10,3 +10,7 @@ sviluppo codice Java
   - username
   - surname
   - color
+- identificazione dei prompt come costanti
+- collegamento delle costanti su html tramite "id"
+- aggiunta contenuti nel html tramite javascript
+  - nel body ci saranno i value inseriti nei prompt con l aggiunta di 21 alla fine
